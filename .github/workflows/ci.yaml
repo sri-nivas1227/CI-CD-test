@@ -20,4 +20,4 @@ jobs:
     # - name: compile the java file
     #   run:  javac  Welcome.java
     - name: run the file
-      run: java Welcome Srinivas
+      run: java Welcome.java Srinivas
